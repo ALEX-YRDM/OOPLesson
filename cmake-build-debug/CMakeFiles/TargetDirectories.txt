@@ -1,0 +1,3 @@
+F:/Clion_practice/oop/shangji/Test1/cmake-build-debug/CMakeFiles/Test1.dir
+F:/Clion_practice/oop/shangji/Test1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion_practice/oop/shangji/Test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
