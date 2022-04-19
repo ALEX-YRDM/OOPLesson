@@ -1,0 +1,3 @@
+D:\CLion\CLion-2021.2.3.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\homeworkChap10.dir/objects.a
+F:\Mingw\mingw64\bin\ar.exe cr CMakeFiles\homeworkChap10.dir/objects.a @CMakeFiles\homeworkChap10.dir\objects1.rsp
+F:\Mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\homeworkChap10.dir/objects.a -Wl,--no-whole-archive -o homeworkChap10.exe -Wl,--out-implib,libhomeworkChap10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\homeworkChap10.dir\linklibs.rsp
